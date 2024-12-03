@@ -57,3 +57,5 @@ Developed by:PORKODI B RegisterNumber:24900502
 ![EXP 9 TIME](https://github.com/user-attachments/assets/d1355afe-ae35-4772-93dd-fcf8595ec460)
 
 **RESULTS**
+   the T flipflop using verilog and validating their functionality using their functional tables
+
